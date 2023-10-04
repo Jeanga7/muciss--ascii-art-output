@@ -1,6 +1,6 @@
 <!-- <h1 style = "text-align: center;" >ASCII-ART</h1> -->
 
-# Ascii-Art-fs
+# Ascii-Art-output
 
 We have to convert a given printable character or string to his matching ascii-art and the banner has to be as the second argument.
 
