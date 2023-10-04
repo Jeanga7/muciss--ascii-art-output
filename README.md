@@ -9,7 +9,10 @@ We have to convert a given printable character or string to his matching ascii-a
 to run this program 
 
 ```bash
-go run . [STRING] [BANNER]
+Usage: go run . [STRING] 
+Usage: go run . [OPTION] [STRING]
+Usage: go run . [STRING] [BANNER] 
+Usage: go run . [OPTION] [STRING] [BANNER] 
 ```
 
 to run the test file
