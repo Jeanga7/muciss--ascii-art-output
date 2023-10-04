@@ -2,7 +2,7 @@
 
 # Ascii-Art-output
 
-We have to convert a given printable character or string to his matching ascii-art and the banner has to be as the second argument.
+We have to convert a given printable character or string to his matching ascii-art specify the banner if not put it as standard and redirect to a file specify by the User.
 
 # How to run it ?
 
