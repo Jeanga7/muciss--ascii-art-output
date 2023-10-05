@@ -29,6 +29,7 @@ func main() {
 		}
 	} else if len(os.Args) == 3 {
 		// Verify if the first argument doesn't begin with --output=
+		//we are testing
 		if !strings.HasPrefix(os.Args[1], "--output=") {
 			if !IsPrintable(os.Args[1]) {
 				fmt.Println("Non-Printable Element Detected?")
